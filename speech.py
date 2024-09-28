@@ -30,7 +30,7 @@ def transcribe_music(audio_file):
     return transcription
 
 # Streamlit app UI setup for Music-to-Text
-st.title("Music-to-Text Converter")
+st.title("Music-to-Text Converter.")
 
 st.write("""
 ### Welcome to the Music-to-Text Converter
